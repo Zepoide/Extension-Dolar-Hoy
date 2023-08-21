@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: #edf6f9;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+.dolar{
+    text-align: center;
+    margin: auto;
+    min-width: 400px;
+    max-width: 500px;
+    border: solid 2px #023E8A;
+}
+
+.compra-venta{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.precio{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tipo-dolar{
+    color: #36213e;
+}
+
+.precio-text{
+    font-size: 40px;
+    font-weight: bold;
+    color: #00c49a;
+}
+
+.titulo{
+    color: #63768d;
+    margin-bottom: 0;
+}
