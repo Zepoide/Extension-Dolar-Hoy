@@ -7,14 +7,14 @@ body{
 *{
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
+    margin: 0;
 }
 
 .dolar{
     text-align: center;
     margin: auto;
-    min-width: 400px;
-    max-width: 500px;
-    border: solid 2px #023E8A;
+    min-width: 300px;
+    border: solid 3px #023E8A;
 }
 
 .compra-venta{
@@ -29,12 +29,14 @@ body{
 
 .tipo-dolar{
     color: #36213e;
+    margin: 25px;
 }
 
 .precio-text{
     font-size: 40px;
     font-weight: bold;
     color: #00c49a;
+    margin: 25px 0;
 }
 
 .titulo{
