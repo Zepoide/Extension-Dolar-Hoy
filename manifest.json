@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "description": "Valor del dólar blue actualmente",
+    "name": "DOLAR BLUE HOY",
+    "icons": {
+        "128": "favicon.png"
+    },
+    "action":{
+        "default_popup": "main.html",
+        "default_icon": "favicon.png"
+    }
+}
